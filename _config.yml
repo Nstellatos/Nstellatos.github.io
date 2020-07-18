@@ -1,11 +1,11 @@
 # Site settings
 author: Nicole Stellatos
-title: 
+title: Can She Code
 header-img: img/home-bg.png
 email: stellatosnicole@gmail.com
 copyright_name: Nicole Stellatos
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey at Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Nstellatos
