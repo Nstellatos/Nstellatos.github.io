@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Helper Methods - how they helped with my Sinatra Project."
-date:       2020-10-26 23:01:24 +0000
+title:      "Helper Methods & how they helped with my Sinatra Project."
+date:       2020-10-26 19:01:24 -0400
 permalink:  helper_methods_-_how_they_helped_with_my_sinatra_project
 ---
 
